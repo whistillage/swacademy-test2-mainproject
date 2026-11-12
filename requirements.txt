@@ -1,0 +1,6 @@
+# torch는 GPU PC의 CUDA 버전에 맞는 것을 먼저 설치하세요: https://pytorch.org/get-started/locally/
+torch
+diffusers>=0.42
+transformers
+accelerate
+pillow

@@ -1,0 +1,15 @@
+{
+  "claim": "전 세계적으로 4초에 1개씩 판매",
+  "evidence": {
+    "type": "내부 판매 데이터",
+    "period": {"start": "2021-07", "end": "2022-07"},
+    "covers": ["드라마티컬리 디퍼런트 모이스춰라이징 로션+", "드라마티컬리 디퍼런트 모이스춰라이징 젤"]
+  },
+  "images": [
+    {"uri": "products/dd-gel/front.png", "view": "정면", "background": "투명"}
+  ],
+  "design": {
+    "colors": {"main": "옐로·골드", "sub": "라벤더"},
+    "typography": {"font_family": "Noto Sans KR", "title_px": 32, "subtitle_px": 24, "body_px": 16}
+  }
+}
